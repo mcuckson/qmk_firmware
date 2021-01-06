@@ -56,3 +56,7 @@
 #endif
 
 #endif
+
+
+#define COMBO_COUNT 2
+#define TAPPING_TERM 200
